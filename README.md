@@ -27,7 +27,7 @@ This project is a Face Recognition System that allows users to add new faces to 
    cd facerecognition
 2. **Install the required Python packages**: 
     ```bash
-    pip install opencv-python opencv-contrib-python numpy pillow
+    pip install opencv-contrib-python numpy pillow
 3. **Download the Haar Cascade XML file for face detection**:
     - You can download the haarcascade_frontalface_default.xml file from the OpenCv GitHub repository.
     - Place the file in the root directory of the project.
