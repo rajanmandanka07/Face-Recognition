@@ -14,7 +14,7 @@ This project is a Face Recognition System that allows users to add new faces to 
 
 ## Requirements
 
-- Python 3.x
+- Python
 - OpenCV
 - NumPy
 - PIL (Pillow)
